@@ -1,4 +1,4 @@
-#SimpleRefreshListView<br/>
+
 How To Use:<br/>
   1.在项目的build.gradle文件下添加以下代码:
     <pre>
