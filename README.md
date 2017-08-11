@@ -14,6 +14,7 @@ How To Use:
      		dependencies {
 	        &nbsp;&nbsp;&nbsp;compile 'com.github.HeIsHero:SimpleRefreshListView:1.3.0'
 	}
+     </pre>
   <br/>
   三、API<br/>
   &nbsp;1.setOnRefreshListener(设置下拉刷新和上拉加载的监听方法)<br/>
