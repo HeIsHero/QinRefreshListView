@@ -22,7 +22,7 @@ import java.text.SimpleDateFormat;
  * 现在，只有上帝知道
  * Created by Coder·Qin on 2017/7/5.
  */
-public class MyRefreshListView extends ListView implements AbsListView.OnScrollListener {
+public class SimpleRefreshListView extends ListView implements AbsListView.OnScrollListener {
 
     private View headerView;
     private View footerView;
@@ -51,17 +51,17 @@ public class MyRefreshListView extends ListView implements AbsListView.OnScrollL
     private int paddingTop;
     private OnRefreshListener refreshListener;
 
-    public MyRefreshListView(Context context) {
+    public SimpleRefreshListView(Context context) {
         super(context, null);
         init();
     }
 
-    public MyRefreshListView(Context context, AttributeSet attrs) {
+    public SimpleRefreshListView(Context context, AttributeSet attrs) {
         super(context, attrs, 0);
         init();
     }
 
-    public MyRefreshListView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public SimpleRefreshListView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         init();
     }
