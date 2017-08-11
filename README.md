@@ -8,7 +8,7 @@ How To Use:
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maven { url 'https://www.jitpack.io' }
 	&nbsp;&nbsp;&nbsp;}
 	}
-    </pre><br/>
+    </pre>
   2.在module的build.gradle文件下添加以下代码:
      <pre>
      		dependencies {
