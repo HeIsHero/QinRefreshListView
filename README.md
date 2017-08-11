@@ -5,7 +5,7 @@ How To Use:<br/>
       	allprojects {
 	&nbsp;&nbsp;&nbsp;repositories {
 	&nbsp;&nbsp;&nbsp;...
-	&nbsp;&nbsp;&nbsp;maven { url 'https://www.jitpack.io' }
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maven { url 'https://www.jitpack.io' }
 	&nbsp;&nbsp;&nbsp;}
 	}
     </pre><br/><br/><br/>
