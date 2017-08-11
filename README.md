@@ -17,8 +17,8 @@ How To Use:
      </pre>
   <br/>
   三、API<br/>
-  &nbsp;&nbsp;1.setOnRefreshListener(设置下拉刷新和上拉加载的监听方法)<br/>
-  &nbsp;&nbsp;2.refreshComplete(关闭下拉刷新)<br/>
-  &nbsp;&nbsp;3.loadMoreComplete(关闭上拉加载)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;1.setOnRefreshListener(设置下拉刷新和上拉加载的监听方法)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;2.refreshComplete(关闭下拉刷新)<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;3.loadMoreComplete(关闭上拉加载)<br/>
 
 
