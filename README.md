@@ -1,10 +1,10 @@
-How To Use:<br/><br/>
+How To Use:
 ===
   1.在项目的build.gradle文件下添加以下代码:
     <pre>
       	allprojects {
 	&nbsp;&nbsp;&nbsp;repositories {
-	&nbsp;&nbsp;&nbsp;&nbsp;...
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maven { url 'https://www.jitpack.io' }
 	&nbsp;&nbsp;&nbsp;}
 	}
