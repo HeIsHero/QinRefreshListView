@@ -10,9 +10,9 @@
            dependencies {
 	      	   compile 'com.github.RedJayIsACoder:SimpleBanner:1.3.1'
            }
-  #### 三、API<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.setOnRefreshListener(设置下拉刷新和上拉加载的监听方法)<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.refreshComplete(关闭下拉刷新)<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.loadMoreComplete(关闭上拉加载)<br/>
+  #### 三、API
+  	   1.setOnRefreshListener(设置下拉刷新和上拉加载的监听方法)<br/>
+  	   2.refreshComplete(关闭下拉刷新)<br/>
+  	   3.loadMoreComplete(关闭上拉加载)<br/>
 
 
