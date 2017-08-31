@@ -12,7 +12,7 @@ How To Use:
   二、在module的build.gradle文件下添加以下代码:
      <pre>
      		dependencies {
-	        &nbsp;&nbsp;&nbsp;&nbsp;compile 'com.github.HeIsHero:SimpleRefreshListView:1.3.0'
+	        &nbsp;&nbsp;&nbsp;&nbsp;compile 'com.github.RedJayIsACoder:SimpleRefreshListView:1.3.0'
 	}
      </pre>
   <br/>
